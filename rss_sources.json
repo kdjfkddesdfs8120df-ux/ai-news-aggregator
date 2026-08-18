@@ -1,0 +1,60 @@
+{
+  "sources": [
+    {
+      "name": "机器之心",
+      "url": "https://www.jiqizhixin.com/rss"
+    },
+    {
+      "name": "雷锋网",
+      "url": "https://www.leiphone.com/feed"
+    },
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/feed/rss"
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/"
+    },
+    {
+      "name": "人人都是产品经理",
+      "url": "https://www.woshipm.com/feed"
+    },
+    {
+      "name": "虎嗅网",
+      "url": "https://www.huxiu.com/rss/0.xml"
+    },
+    {
+      "name": "爱范儿",
+      "url": "https://www.ifanr.com/feed"
+    },
+    {
+      "name": "少数派",
+      "url": "https://sspai.com/feed"
+    },
+    {
+      "name": "36氪",
+      "url": "https://36kr.com/feed"
+    },
+    {
+      "name": "199IT",
+      "url": "https://www.199it.com/feed"
+    },
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/rss"
+    }
+  ]
+}
