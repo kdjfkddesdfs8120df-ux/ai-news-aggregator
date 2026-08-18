@@ -1,9 +1,5 @@
 # ai-news-aggregator
 内容创作自动化,一个获取AI热点新闻的skills
----
-name: "ai-news-aggregator"
-description: "Aggregates AI-related news from configurable RSS feeds and generates a Chinese document containing only title, link, date and summary. Invoke when user asks for AI news, RSS aggregation, or AI news briefs."
----
 
 # AI 新闻聚合器
 
